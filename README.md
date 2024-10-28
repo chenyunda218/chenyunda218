@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chenyunda218 from China macao
-- 👀 I’m interested in ...
+- 👀 I’m a full stack developer
 - 🌱 I’m currently working on Boardware Limited
 
 <!---
