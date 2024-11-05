@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 #### 🎨 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,cs,react,redux,remix,nextjs,graphql,docker,rider&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,react,graphql,docker&theme=light)](https://skillicons.dev)
