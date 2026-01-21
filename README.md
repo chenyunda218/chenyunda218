@@ -9,5 +9,6 @@ You can click the Preview link to take a look at your changes.
 #### 🎨 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=go,kotlin,java,js,ts&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=linux,react,graphql,mysql,docker,kubernetes&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=elixir&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,react,graphql,docker,kubernetes&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=elixir&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql&theme=light)](https://skillicons.dev)
